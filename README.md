@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Cedric Kofi Ahiato] 👋
 
-<!--
-**BigDougCed/BigDougCed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support / Help Desk** | Windows · Active Directory · Microsoft 365 · Intune · PowerShell
+6 years in customer service: I'm used to fixing problems for people under pressure, and now I fix the technical side too.
 
-Here are some ideas to get you started:
+📍 Erfurt, Germany · Open to on-site, hybrid, and remote roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Start here
+| Project | What it shows |
+|---|---|
+| [Help desk ticketing](link) | 15 documented tickets, SLAs, customer communication |
+| [M365 & Intune](link) | User lifecycle, MFA, device compliance, app deployment |
+| [Major incident capstone](link) | Multi-cause outage, status updates, root-cause analysis |
+
+## 🧰 Skills
+Windows 10/11 · Active Directory & Group Policy · Entra ID · Intune · Exchange Online ·
+TCP/IP, DNS, DHCP · PowerShell · Bash/Linux basics · Ticketing & SLAs · Documentation
+
+## 📫 Contact
+[LinkedIn](link) · your.email@example.com
