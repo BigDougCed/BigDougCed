@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Cedric Kofi Ahiato">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1F3A"/><stop offset="1" stop-color="#123B6D"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .num { font-size: 20px; font-weight: 700; fill: #5FB3FF; letter-spacing: 3px; }
+      .title { font-size: 50px; font-weight: 700; fill: #FFFFFF; }
+      .sub { font-size: 22px; fill: #C9D7EA; }
+      .chip { font-size: 16px; fill: #E6F0FB; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="300" rx="4" fill="#5FB3FF"/>
+  <line x1="1010" y1="80" x2="1110" y2="130" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><line x1="1010" y1="80" x2="930" y2="140" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><line x1="1110" y1="130" x2="1020" y2="190" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><line x1="1020" y1="190" x2="930" y2="140" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><line x1="1110" y1="130" x2="1110" y2="230" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><line x1="1010" y1="80" x2="1150" y2="60" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><line x1="1020" y1="190" x2="1110" y2="230" stroke="#5FB3FF" stroke-opacity="0.35" stroke-width="2"/><circle cx="1010" cy="80" r="7" fill="#0B1F3A" stroke="#5FB3FF" stroke-width="2.5"/><circle cx="1110" cy="130" r="7" fill="#0B1F3A" stroke="#5FB3FF" stroke-width="2.5"/><circle cx="1020" cy="190" r="7" fill="#0B1F3A" stroke="#5FB3FF" stroke-width="2.5"/><circle cx="930" cy="140" r="7" fill="#0B1F3A" stroke="#5FB3FF" stroke-width="2.5"/><circle cx="1110" cy="230" r="7" fill="#0B1F3A" stroke="#5FB3FF" stroke-width="2.5"/><circle cx="1150" cy="60" r="7" fill="#0B1F3A" stroke="#5FB3FF" stroke-width="2.5"/>
+  <text x="64" y="74" class="num">IT SUPPORT  ·  SYSTEM ADMINISTRATION  ·  DESKTOP SUPPORT</text>
+  <text x="64" y="132" class="title">Cedric Kofi Ahiato</text>
+  <text x="64" y="176" class="sub">M.Sc. Applied Computer Science · Erfurt, Germany · German C1 · English C2</text>
+  <rect x="64" y="214" width="162" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#5FB3FF" stroke-opacity="0.55"/><text x="145.0" y="236" text-anchor="middle" class="chip">Active Directory</text><rect x="238" y="214" width="135" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#5FB3FF" stroke-opacity="0.55"/><text x="305.5" y="236" text-anchor="middle" class="chip">Microsoft 365</text><rect x="385" y="214" width="72" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#5FB3FF" stroke-opacity="0.55"/><text x="421.0" y="236" text-anchor="middle" class="chip">Intune</text><rect x="469" y="214" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#5FB3FF" stroke-opacity="0.55"/><text x="523.0" y="236" text-anchor="middle" class="chip">PowerShell</text><rect x="589" y="214" width="63" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#5FB3FF" stroke-opacity="0.55"/><text x="620.5" y="236" text-anchor="middle" class="chip">Linux</text><rect x="664" y="214" width="54" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#5FB3FF" stroke-opacity="0.55"/><text x="691.0" y="236" text-anchor="middle" class="chip">ITIL</text>
+</svg>
