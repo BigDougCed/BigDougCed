@@ -43,7 +43,7 @@ flowchart LR
 |:-:|---|---|---|
 | **01** | [**Homelab Build**](https://github.com/BigDougCed/01-homelab-build) | Hyper-V lab: Windows Server 2022 DC (AD DS, DNS, DHCP), Windows 11 clients, Ubuntu, built by script | Hyper-V · PowerShell |
 | **02** | [**Active Directory & Group Policy**](https://github.com/BigDougCed/02-active-directory-gpo) | OU design, AGDLP permissions, file shares, 8 documented GPOs | AD · GPO · NTFS |
-| **03** | [**PowerShell AD Automation**](https://github.com/BigDougCed/03-powershell-ad-automation) | Onboarding/offboarding from HR CSV, help desk password reset, AD hygiene report, Pester tests + CI | PowerShell · Pester |
+| **03** | [**PowerShell AD Automation**](https://github.com/BigDougCed/03-powershell-ad-automation) | Joiner/mover/leaver automation, client diagnostics, inventory, access review (GDPR), help desk menu, 33 Pester tests + CI | PowerShell · Pester |
 | **04** | [**Microsoft 365 & Entra ID**](https://github.com/BigDougCed/04-m365-entra-id) | Group-based licensing, MFA, Conditional Access baseline, Exchange Online, Graph scripts | Entra ID · Graph |
 | **05** | [**Intune Endpoint Management**](https://github.com/BigDougCed/05-intune-endpoint-management) | Compliance, BitLocker, update rings, Win32 app packaging, remediations, Autopilot | Intune · Autopilot |
 | **06** | [**Help Desk Ticketing**](https://github.com/BigDougCed/06-helpdesk-ticketing-zammad) | Zammad with SLAs P1–P4 and **15 fully documented tickets** (DE/EN communication) | Zammad · ITIL |
